@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:#EDD263;
+}
+
+.navbar{
+    padding-top: 30px;;
+}
+.nav-item{
+    padding: 0 10px;
+}
+
+.nav-img{
+    width: 90px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.nav-item a{
+    font-weight: 700;
+}
+
+#mealsId{
+    cursor: pointer;
+}
+
+#search_button{
+    margin-left: 10px;
+}
+
+.foodImg{
+    width: 300px;
+}
+.ingredientsHead{
+    font-weight: 400;
+    font-size: 30px;
+    color: darkslateblue;
+    margin-left: 5px;
+}
+.mealDeatils{
+    margin-left: 0px;
+    color:#2E4053;
+    margin-left: 5px;
+    
+}
+.mealNameDeatils{
+    font-weight: 500;
+    font-size: 40px;
+    color: darkslategray;
+    text-align: center;
+}
+
+.foodImg{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.foodhead{
+    margin: 20px 50px;
+}
+
+.food{
+    margin: 20px 10px 0px 50px;
+    border:5px solid sienna;
+    box-shadow:5px 10px sienna;
+    background: transparent;
+    border-radius: 25px;
+    width: 300px;
+    padding: 25px;
+    float: left;
+    cursor: pointer;
+}
+
+
+.foodDetails{
+    border:5px solid #2E4053;
+    box-shadow: 5px 8px #2E4053;
+    border-radius: 10px;
+    display: block;
+}
+
+.foodImgMain{
+    width: 250px;
+    margin-left: 0px;
+}
